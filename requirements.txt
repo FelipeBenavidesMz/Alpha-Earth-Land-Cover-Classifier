@@ -1,0 +1,12 @@
+earthengine-api
+ipywidgets
+ipyleaflet
+folium
+scikit-learn
+matplotlib
+pandas
+numpy
+xgboost
+lightgbm
+jupyter
+notebook
